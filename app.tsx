@@ -7,7 +7,7 @@ function App() {
   return (
     <html>
       <head>
-        <title>Hello from JSX</title>
+        <title>Hello from JSX By Hashim</title>
       </head>
       <body>
         <h1>Hello world</h1>

@@ -11,8 +11,17 @@ function App() {
       </head>
       <body>
         <h1>Hello world By Hashim</h1>
+        <MyFirstControl />
       </body>
     </html>
+  );
+}
+
+function MyFirstControl() {
+  return (
+    <div>
+      <h1>Hashim</h1>
+    </div>
   );
 }
 

@@ -7,10 +7,10 @@ function App() {
   return (
     <html>
       <head>
-        <title>Hello from JSX By Hashim</title>
+        <title>Hello from JSX</title>
       </head>
       <body>
-        <h1>Hello world</h1>
+        <h1>Hello world By Hashim</h1>
       </body>
     </html>
   );

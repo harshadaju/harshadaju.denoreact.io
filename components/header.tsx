@@ -8,4 +8,4 @@ const MyFirstControl = () => {
     </div>
   );
 };
-export MyFirstControl
+export default MyFirstControl;

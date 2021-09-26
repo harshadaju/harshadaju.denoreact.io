@@ -2,7 +2,7 @@
 // uses it instead of `React.createElement`
 import { h } from "https://x.lcas.dev/preact@10.5.12/mod.js";
 import { renderToString } from "https://x.lcas.dev/preact@10.5.12/ssr.js";
-import MyFirstControl from "./components/header.tsx";
+import { MyFirstControl } from "./components/header.tsx";
 
 function App() {
   return (
